@@ -1,5 +1,5 @@
 # 🏥 **DISCHARGE  MANAGEMENT  SYSTEM (C Programming)**
-##📄  **ABSTRACT**
+## 📄 **ABSTRACT**
 
 The **Discharge Management System** is a terminal-based **C** application designed to manage patient discharge details efficiently.
 It allows hospital administrators to **add**,** view**, **search**, **update**, and delete discharge records in a systematic way.
@@ -10,39 +10,39 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 
 ---
 
-##✨ **FEATURES**
+## ✨ **FEATURES**
 
 ### **Core Functionalities**
 
--➕ **Add new patient discharge records**
--📋 **View all discharge records** in a formatted table
--🔍 **Search patient discharge record using Patient ID**
--✏️ **Update discharge information**
--❌ **Delete a record using temporary file method**
--💾 Saves all data in binary file (`discharge.txt`)
--🖥️ Fully terminal-based, menu-driven system
--👨‍💻 Beginner-friendly & modular code
--⚙️ Auto-creates data file if missing
--⚠️ Includes basic validation and error handling
+- ➕ **Add new patient discharge records**
+- 📋 **View all discharge records** in a formatted table
+- 🔍 **Search patient discharge record using Patient ID**
+- ✏️ **Update discharge information**
+- ❌ **Delete a record using temporary file method**
+- 💾 Saves all data in binary file (`discharge.txt`)
+- 🖥️ Fully terminal-based, menu-driven system
+- 👨‍💻 Beginner-friendly & modular code
+- ⚙️ Auto-creates data file if missing
+- ⚠️ Includes basic validation and error handling
 
 ---
 
-##🛠️ **TECHNICAL REQUIREMENTS**
+## 🛠️ **TECHNICAL REQUIREMENTS**
 
-###**System Requirements**
+### **System Requirements**
 
 - OS: **Windows / Linux / macOS**
 - Terminal or Command Prompt
 - Minimum **4 MB RAM**
-- Small disk space for 'discharge.txt'
+- Small disk space for `discharge.txt`
 
-###**Software Requirements**
+### **Software Requirements**
 
 - C Compiler: **GCC / MinGW / Clang / MSVC**
 - Editor: VS Code, Code::Blocks, Dev-C++, Turbo C (optional)
 - Optional: **Makefile support**
 
-###**Programming Requirements**
+### **Programming Requirements**
 
 -Language: **C**
 - Standards: **C89 / C99 / C11**
