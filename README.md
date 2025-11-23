@@ -4,7 +4,7 @@
 The **Discharge Management System** is a terminal-based **C** application designed to manage patient discharge details efficiently.
 It allows hospital administrators to **add**,** view**, **search**, **update**, and delete discharge records in a systematic way.
 
-All records are stored permanently in a binary file ('discharge.txt'), ensuring that patient data remains saved even after the program is closed.
+All records are stored permanently in a binary file (`discharge.txt`), ensuring that patient data remains saved even after the program is closed.
 
 This project uses core C concepts such as **structures**, **file handling**, **conditionals**, **loops**, and **modular programming**, making it ideal for **beginners**, **academic mini-projects**, and **practical learning**.
 
@@ -19,7 +19,7 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 -🔍 **Search patient discharge record using Patient ID**
 -✏️ **Update discharge information**
 -❌ **Delete a record using temporary file method**
--💾 Saves all data in binary file ('discharge.txt')
+-💾 Saves all data in binary file (`discharge.txt`)
 -🖥️ Fully terminal-based, menu-driven system
 -👨‍💻 Beginner-friendly & modular code
 -⚙️ Auto-creates data file if missing
@@ -48,15 +48,15 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 - Standards: **C89 / C99 / C11**
 - Required Headers:
 
--'stdio.h'
+-`stdio.h`
 
--'stdlib.h'
+-`stdlib.h`
 
--'string.h'
+-`string.h`
 
 ### **File Handling**
 
-- Binary file storage ('discharge.txt')
+- Binary file storage (`discharge.txt`)
 - Auto-creates file if not found
 - Read/Write permissions required
 
