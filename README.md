@@ -2,7 +2,7 @@
 ## 📄 **ABSTRACT**
 
 The **Discharge Management System** is a terminal-based **C** application designed to manage patient discharge details efficiently.
-It allows hospital administrators to **add**,** view**, **search**, **update**, and delete discharge records in a systematic way.
+It allows hospital administrators to **add**,**view**, **search**, **update**, and delete discharge records in a systematic way.
 
 All records are stored permanently in a binary file (`discharge.txt`), ensuring that patient data remains saved even after the program is closed.
 
