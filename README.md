@@ -110,7 +110,7 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 
 ## ▶️ **Running the Program**
 
-###1️⃣ **Compile**
+### 1️⃣ **Compile**
 ```bash
 gcc discharge.c -o discharge
 ````
