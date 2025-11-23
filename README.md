@@ -44,15 +44,15 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 
 ### **Programming Requirements**
 
--Language: **C**
+- Language: **C**
 - Standards: **C89 / C99 / C11**
 - Required Headers:
 
--`stdio.h`
+- `stdio.h`
 
--`stdlib.h`
+- `stdlib.h`
 
--`string.h`
+- `string.h`
 
 ### **File Handling**
 
@@ -74,12 +74,12 @@ This project uses core C concepts such as **structures**, **file handling**, **c
 ## 🏥 **Patient Discharge Operations**
 ## ➕ **Add Discharge Record**
 
--Enter: Patient ID, Name, Age, Disease, Treatment Details, Bill Amount
+- Enter: Patient ID, Name, Age, Disease, Treatment Details, Bill Amount
 - Saved in 'discharge.txt'
 
 ### 📋 **View Discharge Records**
 
--Displays all stored records in a clean table format
+- Displays all stored records in a clean table format
 
 ### 🔍 **Search Record**
 
